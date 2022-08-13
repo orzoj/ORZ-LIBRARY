@@ -1,7 +1,7 @@
 # Home
 
 ## Các kiến thức nhập môn
-* [Độ phức tạp thuật toán](https://www.youtube.com/watch?v=Mmy2RN1pwbA)
+* [Độ phức tạp thuật toán (TopAlgo)](https://www.youtube.com/watch?v=Mmy2RN1pwbA)
 
 
 ## Cấu trúc dữ liệu
