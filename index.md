@@ -1,4 +1,5 @@
 # Home
+Đây là nơi tổng hợp các bài viết và video từ nhiều nguồn khác nhau (VNOI WIKI, geeksforgeeks, codeforces,...)
 
 ## Các kiến thức nhập môn
 * [Độ phức tạp thuật toán (TopAlgo)](https://www.youtube.com/watch?v=Mmy2RN1pwbA)
