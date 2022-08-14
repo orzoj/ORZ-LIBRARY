@@ -9,7 +9,6 @@
 * [Standard Template Library (STL)](https://cdn.discordapp.com/attachments/992380896390955048/992429316329721986/STL.pdf)
 * [Segment Tree Cơ bản](https://vnoi.info/wiki/algo/data-structures/segment-tree-basic.md)
 * [Disjoint Set Union (DSU)](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
-* [Disjoint Set Union (DSU)](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
 * [Binary Indexed Tree (BIT)](https://vnoi.info/wiki/algo/data-structures/fenwick.md)
 
 
