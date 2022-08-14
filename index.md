@@ -25,7 +25,7 @@
 * [Tìm kiếm nhị phân (Binary Search)](https://vnoi.info/wiki/algo/basic/binary-search.md)
 * [Hai con trỏ (Two Pointer)](https://vnoi.info/wiki/algo/basic/two-pointers.md)
 
-## Dynamic 
+## Quy hoạch động 
 * [Quy hoạch động cơ bản (TopAlgo)](https://www.youtube.com/playlist?list=PLWYOT8C61ll2KHLLKDmU4BztDPJd4w1Br)
 * [DP Digit](https://codeforces.com/blog/entry/53960)
 * [DP Bitmask]()
